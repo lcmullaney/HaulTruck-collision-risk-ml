@@ -2,13 +2,13 @@ Haul-Truck Collision Risk Classification
 
 ECE 607 – Final Project
 
-## Project Description
+Project Description
 
 This project uses machine learning to classify simulated mine haul-truck encounters into three categories: Safe, Warning, and Critical.
 
 The data was generated using the MineHaulSim simulator. The goal is to compare Logistic Regression and Gaussian Naive Bayes for classifying truck encounters.
 
-## Machine Learning Models
+Machine Learning Models
 
 Three models were tested:
 
@@ -18,7 +18,7 @@ Three models were tested:
 
 The dataset was split into 80% training and 20% testing.
 
-## How to Run
+How to Run
 
 Install the required Python packages:
 
