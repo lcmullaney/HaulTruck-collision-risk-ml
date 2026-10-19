@@ -1,6 +1,6 @@
-# Haul-Truck Collision Risk Classification
+Haul-Truck Collision Risk Classification
 
-**ECE 607 – Final Project**
+ECE 607 – Final Project
 
 ## Project Description
 
